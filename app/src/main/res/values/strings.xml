@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="font_10">10dp</string>
+    <string name="font_12">12dp</string>
+    <string name="font_14">14dp</string>
+    <string name="font_16">16dp</string>
+    <string name="font_18">18dp</string>
+    <string name="red_title">红色标题</string>
+    <string name="green_title">绿色标题</string>
+    <string name="blue_title">蓝色标题</string>
+    <string name="font_color">字体颜色</string>
+    <string name="plain_menu">普通菜单项</string>
+    <string name="menu_font_size">字体大小</string>
+    <string name="green">绿色</string>
+    <string name="blue">蓝色</string>
+    <string name="red">红色</string>
+    <string name="title_activity_xmldefine_menu">XMLDefineMenu</string>
+</resources>

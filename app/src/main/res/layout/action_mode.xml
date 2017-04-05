@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_1"
+        android:orderInCategory="3"
+        app:showAsAction="always"
+        android:icon="?attr/actionModeCopyDrawable"
+        android:title="Menu_1"/>
+    <item
+        android:id="@+id/menu_2"
+        android:orderInCategory="2"
+        app:showAsAction="always"
+        android:icon="?attr/actionModePasteDrawable"
+        android:title="Menu_2"/>
+    <item
+        android:id="@+id/menu_3"
+        android:orderInCategory="4"
+        app:showAsAction="always"
+        android:icon="?attr/actionModeCutDrawable"
+        android:title="Menu_3"/>
+</menu>
